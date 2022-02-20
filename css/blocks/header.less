@@ -1,0 +1,53 @@
+// main: ../style.less
+
+.header{
+margin-bottom: 50px;
+}
+
+.header__nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 85px;      
+    font-weight: 600; 
+    position: relative;
+    
+    
+    &::after{
+        display: block;
+        width:980px;
+        content: '';
+        position: absolute;
+        border-bottom: 1px solid #828282;
+        top:120%;
+        left: 0; 
+    }
+}
+
+
+.list{
+    display: flex;
+    align-items: center;
+    
+}
+
+.list__item{
+ margin-right: 160px;  
+    
+}
+
+.list__item:last-child{
+    margin: 0;
+}
+
+.list__link{
+    color: #828282;
+
+    &:active{
+        color: black;
+    }
+    
+    &:hover{
+        color: #000;
+    }
+}
