@@ -9,7 +9,7 @@ To fix these divs into a straight line. And to reverse lang div into opposite si
 
 Second: ![problem2](https://user-images.githubusercontent.com/70586268/157978729-fdc453bf-31cc-4973-9000-aa7476b0baec.png)
 
-Fix the app__item with a one-word name. I used a hide symbol "&nbsp;" to beautify an image (at first)
+Fix the app__item with a one-word name to fit into other items. I used a hide symbol ".&.n.b.s.p;" to beautify an image (at first)
 
 Next - Portfolio section.
 
