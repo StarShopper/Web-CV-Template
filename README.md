@@ -12,6 +12,6 @@ Second: ![problem2](https://user-images.githubusercontent.com/70586268/157978729
 
 Fix the app__item with a one-word name to fit into other items. I used a hide symbol ".&.n.b.s.p;" to beautify an image (at first)
 
-Next - Portfolio section.
+Next - Some animation & adaptive alyout
 
 See y'all around.
